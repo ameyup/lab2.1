@@ -2,6 +2,6 @@ class Javaprog (
 
 public static void main(String[] args){
 
-System.out.println('Amey git java first change');
+System.out.println('Amey git java second change');
 }
 )
